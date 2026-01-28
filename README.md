@@ -2,10 +2,8 @@
 
 <h2> IT Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System) (Placeholder)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Wireshark </b>
+  - [Wireshark: Monitoring Network Traffic](https://github.com/timothyyaowork/Monitoring-Traffic-with-Wireshark)
 
 <h2>Connect with me:</h2>
 
