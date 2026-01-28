@@ -1,4 +1,4 @@
-<h1>Hi, I'm Timothy, an <a href="www.linkedin.com/in/timothy-yao-94a51a2b1">aspiring IT worker</a>☺</h1>
+<h1>Hi, I'm Timothy, an <a href="www.linkedin.com/in/timothy-yao-94a51a2b1">Aspiring IT Worker</a></h1>
 
 <h2> IT Projects:</h2>
 
